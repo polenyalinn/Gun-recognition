@@ -1,2 +1,2 @@
 # Gun recognition
- Gun recognition projects
+Gun Recognition Project – Developed using Python, YOLO, and Google Colab.
